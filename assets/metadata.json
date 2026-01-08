@@ -1,0 +1,138 @@
+{
+  "project": {
+    "title": "Digital Odyssey: A Collaborative Journey with AI",
+    "subtitle": "The Story of Innovation, Connection, and the Future of Human-AI Partnership",
+    "version": "1.0.0",
+    "created": "2026-01-07",
+    "last_updated": "2026-01-08",
+    "status": "complete",
+    "license": "CC-BY-SA-4.0"
+  },
+  "author": {
+    "name": "Steven Owens",
+    "github": "soquarky",
+    "twitter": "SoQuarky",
+    "website": "funfyp.com",
+    "email": "adventuresindrawing@gmail.com"
+  },
+  "manuscript": {
+    "word_count": 40000,
+    "chapters": 10,
+    "creation_time_hours": 4,
+    "format": "markdown",
+    "language": "en-US"
+  },
+  "ai_platforms": [
+    {
+      "name": "Google Gemini Pro",
+      "role": "Research, analysis, strategic planning",
+      "usage": "primary"
+    },
+    {
+      "name": "Anthropic Claude Pro",
+      "role": "Content creation, detailed drafting",
+      "usage": "primary"
+    },
+    {
+      "name": "OpenAI ChatGPT Pro",
+      "role": "Creative exploration, brainstorming",
+      "usage": "primary"
+    },
+    {
+      "name": "Novel Crafter",
+      "role": "Manuscript management, formatting",
+      "usage": "specialized"
+    },
+    {
+      "name": "LMarena AI",
+      "role": "Competitive analysis",
+      "usage": "specialized"
+    },
+    {
+      "name": "Kimi Pro",
+      "role": "Extended context analysis",
+      "usage": "specialized"
+    },
+    {
+      "name": "Twin Mind Pro",
+      "role": "Dual-perspective thinking",
+      "usage": "specialized"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 0,
+      "title": "Preface: The Beginning of a Collaboration",
+      "themes": ["collaboration", "innovation", "partnership"]
+    },
+    {
+      "number": 1,
+      "title": "Origins and Early Digital Footprints",
+      "themes": ["beginnings", "technology", "GitHub"]
+    },
+    {
+      "number": 2,
+      "title": "The AI Awakening",
+      "themes": ["discovery", "philosophy", "partnership"]
+    },
+    {
+      "number": 3,
+      "title": "Collaborative Creation",
+      "themes": ["manuscripts", "innovation", "speed"]
+    },
+    {
+      "number": 4,
+      "title": "Building Digital Legacies",
+      "themes": ["platforms", "community", "sustainability"]
+    },
+    {
+      "number": 5,
+      "title": "The Manuscript Projects",
+      "themes": ["documentation", "education", "biography"]
+    },
+    {
+      "number": 6,
+      "title": "Technical Mastery and Innovation",
+      "themes": ["toolchain", "automation", "integration"]
+    },
+    {
+      "number": 7,
+      "title": "Community and Connection",
+      "themes": ["open-source", "mentorship", "networks"]
+    },
+    {
+      "number": 8,
+      "title": "Vision for the Future",
+      "themes": ["evolution", "legacy", "impact"]
+    },
+    {
+      "number": 9,
+      "title": "Epilogue: Continuing the Journey",
+      "themes": ["reflection", "continuation", "invitation"]
+    }
+  ],
+  "distribution": {
+    "platforms": [
+      "GitHub",
+      "funfyp.com",
+      "Gumroad",
+      "Kindle Direct Publishing",
+      "Google Books"
+    ],
+    "formats": ["markdown", "pdf", "epub", "audio"],
+    "pricing_model": "pay-what-you-want",
+    "open_access": true
+  },
+  "tags": [
+    "AI collaboration",
+    "human-AI partnership",
+    "creative writing",
+    "digital innovation",
+    "open source",
+    "manuscript creation",
+    "multi-platform AI",
+    "workflow optimization",
+    "community building",
+    "knowledge sharing"
+  ]
+}
