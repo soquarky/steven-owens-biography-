@@ -5,6 +5,21 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Created: January 2026](https://img.shields.io/badge/Created-January%202026-blue.svg)](https://github.com/soquarky/digital-odyssey-biography)
 [![Duration: 4 Hours](https://img.shields.io/badge/Creation%20Time-4%20Hours-green.svg)](https://github.com/soquarky/digital-odyssey-biography)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+---
+
+## 📑 Table of Contents
+
+- [About This Repository](#-about-this-project)
+- [Projects Included](#-projects-in-this-repository)
+- [Repository Structure](#-repository-structure)
+- [Getting Started](#-quick-start-guide)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Contact](#-contact)
+
+**📋 Need help navigating?** See the complete [Project Index](PROJECT_INDEX.md) for detailed navigation guides.
 
 ---
 
@@ -76,17 +91,52 @@ This biography represents a groundbreaking experiment in human-AI collaboration�
 
 ---
 
+## 📁 Projects in This Repository
+
+This repository contains multiple creative and educational projects:
+
+### 1. 📖 Digital Odyssey Biography
+The main project: a 40,000-word professional biography documenting the journey of AI collaboration, created in just 4 hours through multi-platform AI partnership.
+
+**Location**: [`docs/complete_manuscript.md`](docs/complete_manuscript.md)
+
+### 2. ☕ Coffee with Sasquatch
+A comedy-philosophy series about a 200-year-old Sasquatch interviewing Ocean Shores residents about being human.
+
+**Location**: [`coffee-with-sasquatch/`](coffee-with-sasquatch/)
+
+### 3. 📚 Reference Materials
+Research documents, notes, and creative development materials.
+
+**Location**: [`reference-materials/`](reference-materials/)
+
+---
+
 ## 🚀 Repository Structure
 
 ```
-digital-odyssey-biography/
+steven-owens-biography-/
 ├── README.md                          # This file
 ├── LICENSE                            # Creative Commons BY-SA 4.0
-├── docs/
-│   ├── complete_manuscript.md         # Full manuscript
-│   └── project_summary.md             # Project overview and statistics
-└── guides/
-    └── quick_start.md                 # How to replicate this approach
+├── CODE_OF_CONDUCT.md                 # Community guidelines
+├── CHANGELOG.md                       # Version history
+├── .gitignore                         # Git ignore rules
+├── docs/                              # Digital Odyssey manuscript
+│   ├── complete_manuscript.md         # Full biography manuscript
+│   └── project_summary.md             # Project overview
+├── guides/                            # How-to guides
+│   └── quick_start.md                 # AI collaboration guide
+├── coffee-with-sasquatch/             # Fiction series
+│   ├── README.md                      # Project overview
+│   └── episodes/                      # Published episodes
+│       ├── EPISODE_01_THE_BARISTAS_TOLERANCE.md
+│       └── EPISODE_02_UMMMMM_WHAT.md
+├── reference-materials/               # Research & archives
+│   └── README.md                      # Materials index
+├── assets/                            # Project metadata
+│   └── metadata.json                  # Technical metadata
+└── .github/
+    └── CONTRIBUTING.md                # Contribution guide
 ```
 
 ---
@@ -147,20 +197,24 @@ digital-odyssey-biography/
 
 ## 🤝 Contributing
 
-While this is a completed manuscript project, contributions are welcome in the form of:
+We welcome contributions! This repository is open for:
 
-- **Feedback**: Share your insights on the collaborative approach
-- **Extensions**: Create supplementary guides or case studies
-- **Translations**: Help make this accessible in other languages
-- **Community Resources**: Add your own AI collaboration experiences
+- **Feedback & Discussion**: Share insights on AI collaboration
+- **Documentation Improvements**: Fix typos, clarify concepts, add examples
+- **Translations**: Help make content accessible in other languages  
+- **Supplementary Content**: Add guides, tutorials, or case studies
+- **Community Resources**: Share your own AI collaboration experiences
 
 ### How to Contribute
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/YourContribution`)
-3. Commit your changes (`git commit -m 'Add: Description'`)
-4. Push to branch (`git push origin feature/YourContribution`)
-5. Open a Pull Request
+1. **Review Guidelines**: Read our [Contributing Guide](.github/CONTRIBUTING.md)
+2. **Check Existing Issues**: See what others are working on
+3. **Create an Issue**: Use our [issue templates](.github/ISSUE_TEMPLATE/) to report bugs or suggest features
+4. **Fork & Submit PR**: Make your changes and submit a pull request
+
+For major changes, please open an issue first to discuss what you'd like to change.
+
+**New to contributing?** That's okay! We welcome first-time contributors and are happy to help you get started.
 
 ---
 
@@ -315,12 +369,18 @@ Interested in featuring this project or discussing AI collaboration? Contact thr
 
 ### Want to Create Your Own AI-Collaborative Manuscript?
 
-1. **Read Chapter 2** (The AI Awakening) for philosophical foundation
-2. **Study Chapter 6** (Technical Mastery) for practical workflows
-3. **Review** [`guides/quick_start.md`](guides/quick_start.md) for step-by-step instructions
-4. **Start small**: Begin with a short piece to develop collaborative patterns
-5. **Scale up**: Apply learned techniques to larger projects
-6. **Share**: Contribute your insights back to the community
+1. **Read the Biography**: Start with [`docs/complete_manuscript.md`](docs/complete_manuscript.md) to understand the journey
+2. **Study the Techniques**: Review Chapter 6 (Technical Mastery) for practical workflows
+3. **Follow the Guide**: Read [`guides/quick_start.md`](guides/quick_start.md) for step-by-step instructions
+4. **Start Small**: Begin with a short piece to develop collaborative patterns
+5. **Scale Up**: Apply learned techniques to larger projects
+6. **Share Back**: Contribute your insights to the community
+
+### Explore the Fiction
+
+1. **Visit Coffee with Sasquatch**: Check out [`coffee-with-sasquatch/`](coffee-with-sasquatch/)
+2. **Read Episode 1**: Start with [The Barista's Tolerance](coffee-with-sasquatch/episodes/EPISODE_01_THE_BARISTAS_TOLERANCE.md)
+3. **Continue the Journey**: Follow Derek's interviews in subsequent episodes
 
 ---
 
