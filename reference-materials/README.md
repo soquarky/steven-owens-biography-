@@ -7,25 +7,28 @@ This directory contains research documents, notes, and reference materials relat
 This archive includes:
 
 ### The Whylight Zone Series
-- Multiple PDF drafts and versions
-- Structural outlines and series introductions
-- Episode drafts and expansion materials
+- Multiple PDF drafts and versions (various iterations)
+- Structural outlines and series introductions (planning documents)
+- Episode drafts and expansion materials (Acts 1-3, episode variations)
+- Script and narrative development documents
 
 ### Coffee with Sasquatch Research
-- Character development notes
-- Episode planning documents
-- Story concepts and outlines
+- Character development notes and concepts
+- Episode planning documents and outlines
+- Story concepts and narrative exploration
+- Creative writing experiments
 
 ### Technical & Philosophical Documents
-- Papers on quantum computing and physics
-- Category theory and moral decision-making frameworks
-- Cognitive governance concepts
-- Information theory and structural concepts
+- Papers on quantum computing and physics (academic references)
+- Category theory and moral decision-making frameworks (AMCEP project)
+- Cognitive governance concepts (research notes)
+- Information theory and structural concepts (theoretical foundations)
 
 ### Personal & Development Notes
-- Creative writing experiments
-- Story development materials
-- Research and reference documents
+- Creative writing experiments and explorations
+- Story development materials and brainstorming
+- Research and reference documents from various sources
+- Life reflections and personal narratives
 
 ## Organization Note
 
